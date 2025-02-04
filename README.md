@@ -42,7 +42,8 @@ Aquí tienes algunos de los lenguajes y tecnologías que dique utilizo:
 
 <!-- Puedes usar una herramienta como GitHub Readme Stats para mostrar tus estadísticas dinámicas -->
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)](https://github.com/TuUsuario)
-Pa que sirven estas estadisticas?
+<br>
+- <small>Pa que sirven estas estadisticas?</small>
 ---
 
 *Actualizado el: <small>2025-02-04</small>*
