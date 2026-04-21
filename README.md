@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la logica de la programac
 - 🔭 Actualmente trabajo en RASKINBALL srl
 - 🌱 Aprendiendo y profundizando en Backend y un poquillo de SQL
 - 💬 No me hagan pregunta
-- 📫 Cómo contactarme: [809-496-2001](facebook.com)
+- 📫 Cómo contactarme: [cesaremiliodelgadofernandez@gmail.com](cesaremiliodelgadofernandez@gmail.com)
 - ⚡ Curiosidad: no me gusta hacer apps moviles
 
 ---
